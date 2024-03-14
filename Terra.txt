@@ -1,0 +1,16 @@
+## A view of the earth from space
+
+{
+    "apim-request-id": "7ee70131-4d68-4673-bea7-1baae64e653e",
+    "content-length": "156",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "captionResult": {
+      "text": "a view of the earth from space",
+      "confidence": 0.811193585395813
+    },
+    "metadata": {
+      "width": 220,
+      "height": 225
+    }
+  }
